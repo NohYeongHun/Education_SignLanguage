@@ -75,10 +75,10 @@
     - https://www.figma.com/file/OensWKNd4JQh1LLIYR9kkx/Untitled?node-id=0%3A1 
 
 - API 명세서
-    - https://www.notion.so/elice/API-a5c42aaafcdd4f0293229f81de53d3f7
+    - https://towering-report-bae.notion.site/API-1f7bd3564d6e44c5bc65ff639a5d1418
 
 - ERD
-    - https://www.notion.so/elice/ERD-fa2459fec7ae42eb8562444a0ffc187e
+    - https://towering-report-bae.notion.site/ERD-701de14605b44d5b9173fda834b8a17b
   
 
 <br><br>
